@@ -1,0 +1,163 @@
+{
+  "BlockedShots": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "CanGoStraightToPenaltiesAfterNormalTime": false,
+  "CanGoToExtraTime": false,
+  "CanGoToPenalties": false,
+  "Clock": {
+    "IsClockRunning": true,
+    "TimeElapsedInPhase": "00:00:00",
+    "TimestampUtc": "2018-10-29T09:31:58.013Z"
+  },
+  "Corners": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 2,
+      "Home": 9
+    }
+  },
+  "CurrentBookingState": "Safe",
+  "CurrentDangerState": "HomeDangerousAttack",
+  "CurrentPhase": "SecondHalf",
+  "CurrentVarState": "Safe",
+  "CustomerId": 6001,
+  "ExtraTimeHalfDuration": "00:15:00",
+  "FixtureId": "5733372",
+  "Fouls": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 8,
+      "Home": 17
+    }
+  },
+  "GoalKicks": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 11,
+      "Home": 2
+    }
+  },
+  "Goals": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 3
+    }
+  },
+  "IsSecondLeg": false,
+  "MessageTimestampUtc": "2018-10-29T09:53:53.787Z",
+  "MissedPenalties": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "NormalTimeHalfDuration": "00:45:00",
+  "Offsides": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 5,
+      "Home": 4
+    }
+  },
+  "PenaltiesAwarded": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "SavedPenalties": {
+    "IsCollected": false,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "SecondYellowCards": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "ShotsOffTarget": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 2,
+      "Home": 8
+    }
+  },
+  "ShotsOffWoodwork": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "ShotsOnTarget": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 4
+    }
+  },
+  "StartTimes": {
+    "FirstHalf": "2018-10-29T08:28:09.012Z",
+    "SecondHalf": "2018-10-29T09:31:58.013Z"
+  },
+  "StoppageTimes": {
+    "FirstHalf": "00:01:00"
+  },
+  "StraightRedCards": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 0,
+      "Home": 0
+    }
+  },
+  "Substitutions": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 2,
+      "Home": 1
+    }
+  },
+  "ThrowIns": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 14,
+      "Home": 17
+    }
+  },
+  "YellowCards": {
+    "IsCollected": true,
+    "IsReliable": true,
+    "Score": {
+      "Away": 1,
+      "Home": 0
+    }
+  }
+}

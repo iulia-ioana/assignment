@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <betslip>
+      <betSaveResponses>
+         <element>
+            <betDescription>EUR 2.00 Single: FILIP KRAJINOVIC @ 13/2 [Match Betting - IR Match] - Karen Khachanov v Filip Krajinovic Paris Mens - 2018 - TENNIS</betDescription>
+            <code>101</code>
+            <description>SUCCESSFUL</description>
+            <failedTransactionId>0</failedTransactionId>
+            <sportsBookReference>16208352300</sportsBookReference>
+            <transactionId>25440106700</transactionId>
+         </element>
+      </betSaveResponses>
+      <bets>
+         <multiples />
+         <singles>
+            <element>
+               <betTypeId>1</betTypeId>
+               <description>Win Single</description>
+               <ew>false</ew>
+               <outcomeId>16208352300</outcomeId>
+               <priceChanged>false</priceChanged>
+               <rmfWithCurrPrice>7.5</rmfWithCurrPrice>
+               <rmfWithReqPrice>7.5</rmfWithReqPrice>
+               <totalStake>2</totalStake>
+            </element>
+         </singles>
+      </bets>
+      <id>21946581</id>
+      <reference>YTV-MAG</reference>
+      <selections>
+         <element>
+            <fixedPrice>true</fixedPrice>
+            <outcomeId>16208352300</outcomeId>
+            <priceChanged>false</priceChanged>
+            <priceDecimal>7.5</priceDecimal>
+            <priceFormat>UK</priceFormat>
+            <priceFormatted>13/2</priceFormatted>
+            <requestPriceDecimal>7.5</requestPriceDecimal>
+            <requestPriceFormatted>13/2</requestPriceFormatted>
+         </element>
+      </selections>
+   </betslip>
+   <status>
+      <errorCode>0</errorCode>
+      <extraInfo />
+      <success>true</success>
+   </status>
+</root>
